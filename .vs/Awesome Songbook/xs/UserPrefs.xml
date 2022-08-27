@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A9D4BB8D-ACFB-FB6A-8506-0372BD72B7B9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ScrollBehaviour.cs">
+    <Files>
+      <File FileName="Assets/HttpRequester.cs" Line="61" Column="6" />
+      <File FileName="Assets/ScrollBehaviour.cs" Line="14" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ec2ca6df-f874-47ef-a6a9-4a13f653c036" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
